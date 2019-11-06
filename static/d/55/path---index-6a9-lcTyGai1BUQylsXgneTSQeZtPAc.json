@@ -1,0 +1,148 @@
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "title": "Sohel Dhengre",
+        "description": "Software Engineer",
+        "year": "2019",
+        "disqus": "aarkay",
+        "author": {
+          "name": "Sohel Dhengre",
+          "avatar": "/img/avatar.jpg",
+          "bio": "<p>I'm a <b>Software Engineer</b> with over <b>one year</b> of experience. I have worked on variety of apps ranging from E-Learning, Utilities to Dating.</p>\n  ",
+          "social": {
+            "phone": "+44 77418366158",
+            "twitter": "rahulkatariya91",
+            "email": "soheldhengre@gmail.com",
+            "github": "sohel00",
+            "linkedin": "soheldhengre"
+          }
+        },
+        "resume": {
+          "skills": [{
+            "name": "Swift",
+            "level": 90
+          }, {
+            "name": "iOS",
+            "level": 80
+          }, {
+            "name": "ReactJS",
+            "level": 70
+          }, {
+            "name": "Git",
+            "level": 90
+          }, {
+            "name": "Design Patterns",
+            "level": 70
+          }, {
+            "name": "Data Structures",
+            "level": 70
+          }, {
+            "name": "Functional Reactive Programming",
+            "level": 70
+          }],
+          "timeline": [{
+            "name": "Experience",
+            "events": [{
+              "title": "iOS Developer",
+              "subtitle": "Antino Labs",
+              "type": "job",
+              "startDate": "December 2018",
+              "endDate": "Present",
+              "overview": null,
+              "points": ["Fixed bugs and added new features inDRA and SIMN applications", "Participated in Intel IoT Hackathon and built a smart soul with knock sensor, Edison board and BLE"]
+            }, {
+              "title": "iOS Developer Intern",
+              "subtitle": "Orion Infosolutions",
+              "type": "job",
+              "startDate": "November 2018",
+              "endDate": "April 2019",
+              "overview": null,
+              "points": ["Took Stanford University's CS193p (Developing Applications for iOS)", "Built TBNEurope application from scratch and published to AppStore", "Built Montcalm application from scratch and published to AppStore"]
+            }]
+          }, {
+            "name": "Education",
+            "events": [{
+              "title": "Bachelor of Engineering",
+              "subtitle": "G H Raisoni College Of Engineering, Nagpur",
+              "type": "education",
+              "startDate": "August 2014",
+              "endDate": "August 2018",
+              "overview": null,
+              "points": null
+            }]
+          }, {
+            "name": "Projects",
+            "events": [{
+              "title": "Run Or Stay",
+              "subtitle": "iOS",
+              "type": "oss",
+              "startDate": null,
+              "endDate": null,
+              "overview": "The not-so-perfect dating app!",
+              "points": null
+            }, {
+              "title": "Copy And Paste",
+              "subtitle": "iOS",
+              "type": "oss",
+              "startDate": null,
+              "endDate": null,
+              "overview": "Copy & Paste is one stop solution for copy and paste anything across mutliple Apps. It is a very useful tool that simplifies Copy Paste on iPhone, for work purpose or personal usage!",
+              "points": null
+            }, {
+              "title": "Lurningo",
+              "subtitle": "iOS",
+              "type": "oss",
+              "startDate": null,
+              "endDate": null,
+              "overview": "E-Learning App.",
+              "points": null
+            }]
+          }, {
+            "name": "Talks/Workshops",
+            "events": [{
+              "title": "Advanced Swift Workshop",
+              "subtitle": "try! Swift, Bangalore",
+              "type": "conference",
+              "startDate": null,
+              "endDate": null,
+              "overview": "Conducted a full day workshop on Advanced Swift Concepts",
+              "points": ["Functional Programming - Map, Filter and Reduce", "Protocols and Generics, Type Erasures", "Value vs Reference, Copy On Write", "Memory Management - Memory Layout, Unsafe Swift"]
+            }, {
+              "title": "Progressive iOS Architectures",
+              "subtitle": "Swift India @ PhonePe",
+              "type": "conference",
+              "startDate": null,
+              "endDate": null,
+              "overview": "Talked about how to start with MVC and mix and match patterns like Coordinator, Interactor and Router as the complexity grows.",
+              "points": null
+            }, {
+              "title": "Library Oriented Programming",
+              "subtitle": "Swift India @ Hike",
+              "type": "conference",
+              "startDate": null,
+              "endDate": null,
+              "overview": "Talked about how to build and integrate libraries using Swift inside Xcode.",
+              "points": null
+            }, {
+              "title": "Networking using Restofire",
+              "subtitle": "Swift India @ Hike",
+              "type": "conference",
+              "startDate": null,
+              "endDate": null,
+              "overview": "Talked about Declarative Networking in Swift using Restofire",
+              "points": null
+            }, {
+              "title": "Networking using Restofire",
+              "subtitle": "Thoughtworks, Gurgaon",
+              "type": "conference",
+              "startDate": null,
+              "endDate": null,
+              "overview": "Talked about Declarative Networking in Swift using Restofire",
+              "points": null
+            }]
+          }]
+        }
+      }
+    }
+  }

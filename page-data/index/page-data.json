@@ -1,0 +1,204 @@
+{
+  "componentChunkName": "component---src-pages-index-js",
+  "path": "/",
+  "result": {
+    "data": {
+      "site": {
+        "siteMetadata": {
+          "title": "Sujeet Agrahari",
+          "description": "Fullstack Developer",
+          "year": "2019",
+          "disqus": "sujeet_agrahari",
+          "author": {
+            "name": "Sujeet Agrahari",
+            "avatar": "/img/avatar.jpg",
+            "bio": "<p>I'm a <b>Fullstack Developer</b> with over <b>one year</b> of experience. I have worked on variety of apps ranging from E-Comerce, Utilities to Student Management System.</p>\n  ",
+            "social": {
+              "phone": "+91 7897084883",
+              "twitter": "SujeetAgrahari_",
+              "email": "sujeet.rgcsm@gmail.com",
+              "github": "Lordofcodes",
+              "linkedin": "sujeet-agrahari-a2b6a9110"
+            }
+          },
+          "resume": {
+            "skills": [
+              {
+                "name": "PHP",
+                "level": 90
+              },
+              {
+                "name": "Laravel & CodeIgniter",
+                "level": 80
+              },
+              {
+                "name": "JavaScript",
+                "level": 80
+              },
+              {
+                "name": "jQuery",
+                "level": 80
+              },
+              {
+                "name": "Node.js",
+                "level": 80
+              },
+              {
+                "name": "MySQL",
+                "level": 85
+              },
+              {
+                "name": "MongoDB",
+                "level": 85
+              },
+              {
+                "name": "Git",
+                "level": 90
+              },
+              {
+                "name": "Design Patterns",
+                "level": 70
+              },
+              {
+                "name": "Data Structures",
+                "level": 70
+              },
+              {
+                "name": "Functional Reactive Programming",
+                "level": 70
+              }{
+                "name": "Object Oriented Programming",
+                "level": 70
+              }
+            ],
+            "timeline": [
+              {
+                "name": "Experience",
+                "events": [
+                  {
+                    "title": "PHP & NodeJS Developer",
+                    "subtitle": "Antino Labs",
+                    "type": "job",
+                    "startDate": "July 2019",
+                    "endDate": "Present",
+                    "overview": null,
+                    "points": [
+                      "Fixed bugs and added new features to Mandi Central admin panel",
+                      "Fixed bugs and added new features to Mandi Central API",
+                      "Fixed bugs and improved UI of Run Or Stay dating website",
+                      "Designed Structure for AMAI E-Commerce app and created RESTful APIs"
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Education",
+                "events": [
+                  {
+                    "title": "Bachelor of Sciene (CS)",
+                    "subtitle": "Dr. Ram Manohar Lohia Avadh University Faizabad U.P.",
+                    "type": "education",
+                    "startDate": "July 2013",
+                    "endDate": "July 2016",
+                    "overview": null,
+                    "points": null
+                  }
+                ]
+              },
+              {
+                "name": "Projects",
+                "events": [
+                  {
+                    "title": "Run Or Stay",
+                    "subtitle": "PHP(WordPress)",
+                    "type": "oss",
+                    "startDate": null,
+                    "endDate": null,
+                    "overview": "The not-so-perfect dating app!",
+                    "points": null
+                  },
+                  {
+                    "title": "Mandi Central",
+                    "subtitle": "PHP(Laravel & CodeIgniter)",
+                    "type": "oss",
+                    "startDate": null,
+                    "endDate": null,
+                    "overview": "Copy & Paste is one stop solution for copy and paste anything across mutliple Apps. It is a very useful tool that simplifies Copy Paste on iPhone, for work purpose or personal usage!",
+                    "points": null
+                  },
+                  {
+                    "title": "Antino.io",
+                    "subtitle": "PHP, JavaScript(jQuery), HTML, CSS(Bootstrap)",
+                    "type": "oss",
+                    "startDate": null,
+                    "endDate": null,
+                    "overview": "Portfolio App.",
+                    "points": null
+                  }
+                ]
+              },
+              {
+                "name": "Talks/Workshops",
+                "events": [
+                  {
+                    "title": "Advanced Swift Workshop",
+                    "subtitle": "try! Swift, Bangalore",
+                    "type": "conference",
+                    "startDate": null,
+                    "endDate": null,
+                    "overview": "Conducted a full day workshop on Advanced Swift Concepts",
+                    "points": [
+                      "Functional Programming - Map, Filter and Reduce",
+                      "Protocols and Generics, Type Erasures",
+                      "Value vs Reference, Copy On Write",
+                      "Memory Management - Memory Layout, Unsafe Swift"
+                    ]
+                  },
+                  {
+                    "title": "Progressive iOS Architectures",
+                    "subtitle": "Swift India @ PhonePe",
+                    "type": "conference",
+                    "startDate": null,
+                    "endDate": null,
+                    "overview": "Talked about how to start with MVC and mix and match patterns like Coordinator, Interactor and Router as the complexity grows.",
+                    "points": null
+                  },
+                  {
+                    "title": "Library Oriented Programming",
+                    "subtitle": "Swift India @ Hike",
+                    "type": "conference",
+                    "startDate": null,
+                    "endDate": null,
+                    "overview": "Talked about how to build and integrate libraries using Swift inside Xcode.",
+                    "points": null
+                  },
+                  {
+                    "title": "Networking using Restofire",
+                    "subtitle": "Swift India @ Hike",
+                    "type": "conference",
+                    "startDate": null,
+                    "endDate": null,
+                    "overview": "Talked about Declarative Networking in Swift using Restofire",
+                    "points": null
+                  },
+                  {
+                    "title": "Networking using Restofire",
+                    "subtitle": "Thoughtworks, Gurgaon",
+                    "type": "conference",
+                    "startDate": null,
+                    "endDate": null,
+                    "overview": "Talked about Declarative Networking in Swift using Restofire",
+                    "points": null
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "pageContext": {
+      "isCreatedByStatefulCreatePages": true
+    }
+  }
+}
